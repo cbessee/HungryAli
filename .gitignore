@@ -16,6 +16,7 @@ node_modules
 bower_components
 local-config.php
 .htaccess
+wordpress/.htaccess
 
 # College specific directories and files
 wp-content/themes/coenv-wordpress-theme/**/
@@ -48,7 +49,6 @@ wp-content/mysql.sql
 
 # wp core (as of 3.4.1)
 /db-config.php
-/index.php
 /license.txt
 /readme.html
 /wp-activate.php
